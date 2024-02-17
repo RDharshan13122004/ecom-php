@@ -19,7 +19,7 @@ This project is about builting a basic e-commerce website. There are 2 phase in 
 
 ## User based main file 
 
-* Once these all process is done open the file [User based website file]( C:\xampp\htdocs\ecom\index.php) in Chrome using the **http - 'localhost//ecom/index.php '** .
+* Once these all process is done open the file [User based website file]( C:\xampp\htdocs\ecom\index.php) in Chrome using the **http - 'localhost/ecom/index.php '** .
 
 ## Admin dashbroad 
 
